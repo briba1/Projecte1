@@ -15,6 +15,5 @@ namespace Projecte1.IDAO
         public bool InsertUser(User u);
 
         public bool DeleteUser(string mail);
-
     }
 }

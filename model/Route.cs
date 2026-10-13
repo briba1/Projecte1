@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Projecte1.model
 {
-    internal class Route
+    public class Route
     {
         private int idT;
         private string nameT;

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Projecte1.model
 {
-    internal class Stop
+    public class Stop
     {
         private int route;
         private int order;

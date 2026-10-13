@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Projecte1.model
 {
-    internal class User
+    public class User
     {
         private int idU;
         private string mail;

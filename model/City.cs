@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices.Java;
 using System.Text;
 
-namespace WpfApp1.model
+namespace Projecte1.model
 {
     internal class City
     {

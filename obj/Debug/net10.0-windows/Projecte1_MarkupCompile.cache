@@ -1,5 +1,5 @@
 ﻿Projecte1
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_O
 D:\CarpetesUsuari\Documents\Todo\PRJ\Projecte1\Projecte1\App.xaml
 11407045341
 
-12790359143
+10-1637206991
 206-1943539212
 MainWindow.xaml;
 
-True
+False
 

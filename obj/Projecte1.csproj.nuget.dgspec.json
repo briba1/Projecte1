@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CarpetesUsuari\\Documents\\Todo\\PRJ\\Projecte1\\Projecte1\\Projecte1.csproj": {}
+    "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Projecte1.csproj": {}
   },
   "projects": {
-    "D:\\CarpetesUsuari\\Documents\\Todo\\PRJ\\Projecte1\\Projecte1\\Projecte1.csproj": {
+    "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Projecte1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CarpetesUsuari\\Documents\\Todo\\PRJ\\Projecte1\\Projecte1\\Projecte1.csproj",
+        "projectUniqueName": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Projecte1.csproj",
         "projectName": "Projecte1",
-        "projectPath": "D:\\CarpetesUsuari\\Documents\\Todo\\PRJ\\Projecte1\\Projecte1\\Projecte1.csproj",
+        "projectPath": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Projecte1.csproj",
         "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
-        "outputPath": "D:\\CarpetesUsuari\\Documents\\Todo\\PRJ\\Projecte1\\Projecte1\\obj\\",
+        "outputPath": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,6 +53,16 @@
         "net10.0-windows": {
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[23.26.301, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[23.26.301, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,16 +1,15 @@
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.Java;
 using System.Text;
 
 namespace Projecte1.model
 {
-    internal class City
+    public class City
     {
         private int idC;
         private string name;
 
-        public City(string name, int idC)
+        public City(int idC, string name)
         {
             this.Name = name;
             this.IdC = idC;

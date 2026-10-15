@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\dao\\daocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:dao\\daocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\idao\\idaocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:idao\\idaocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\idao\\idaostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:idao\\idaostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\dao\\daostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:dao\\daostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\idao\\idaostop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:idao\\idaostop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|d:\\carpetesusuari\\documents\\examen\\projecte1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A83029E-2DD8-5D36-7D77-EDDF7032724B}|Projecte1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:43:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:40:18.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Transport.cs",
+              "RelativeDocumentMoniker": "Model\\Transport.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Transport.cs",
+              "RelativeToolTip": "Model\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:40:14.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stop.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Stop.cs",
+              "RelativeDocumentMoniker": "Model\\Stop.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Stop.cs",
+              "RelativeToolTip": "Model\\Stop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:40:09.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Station.cs",
+              "RelativeDocumentMoniker": "Model\\Station.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Station.cs",
+              "RelativeToolTip": "Model\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:40:04.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\City.cs",
+              "RelativeDocumentMoniker": "Model\\City.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\City.cs",
+              "RelativeToolTip": "Model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:39:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Route.cs",
+              "RelativeDocumentMoniker": "Model\\Route.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\Model\\Route.cs",
+              "RelativeToolTip": "Model\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:39:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDAOCity.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOCity.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOCity.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOCity.cs",
+              "RelativeToolTip": "IDAO\\IDAOCity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:37:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAOCity.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\DAO\\DAOCity.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOCity.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\DAO\\DAOCity.cs",
+              "RelativeToolTip": "DAO\\DAOCity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:37:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDAOStation.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOStation.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOStation.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOStation.cs",
+              "RelativeToolTip": "IDAO\\IDAOStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:38:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAOStation.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\DAO\\DAOStation.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOStation.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\DAO\\DAOStation.cs",
+              "RelativeToolTip": "DAO\\DAOStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:39:02.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDAOStop.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOStop.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOStop.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\IDAO\\IDAOStop.cs",
+              "RelativeToolTip": "IDAO\\IDAOStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:38:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\Projecte1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-15T13:14:48.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,7 +19,7 @@ namespace Projecte1.DAO
             throw new NotImplementedException();
         }
 
-        public ObservableCollection<Route> GetRoutes(bool valid, int user)
+        public ObservableCollection<Route> GetRoutes(bool validat, int user, int offset = 0, int rows_per_page = -1)
         {
             throw new NotImplementedException();
         }

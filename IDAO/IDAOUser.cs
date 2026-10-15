@@ -8,6 +8,8 @@ namespace Projecte1.IDAO
 {
     public interface IDAOUser
     {
+        public ObservableCollection<User> GetUsers(int offset = 0, int rows_per_page = -1);
+
         public User GetUser(string mail);
 
         public bool UpdateUser(User u);

@@ -1,16 +1,15 @@
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.Java;
 using System.Text;
 
 namespace Projecte1.model
 {
-    internal class Transport
+    public class Transport
     {
         private int idM;
         private string nameT;
 
-        public Transport(string nameT, int idM)
+        public Transport(int idM, string nameT)
         {
             this.NameT = nameT;
             this.IdM = idM;

@@ -2,6 +2,7 @@
 using Projecte1.model;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 
 namespace Projecte1.DAO
@@ -14,6 +15,11 @@ namespace Projecte1.DAO
         }
 
         public User GetUser(string mail)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ObservableCollection<User> GetUsers(int offset = 0, int rows_per_page = -1)
         {
             throw new NotImplementedException();
         }

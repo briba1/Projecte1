@@ -14,27 +14,22 @@ namespace Projecte1.DAO
             throw new NotImplementedException();
         }
 
-        public ObservableCollection<Stop> GetRoutes(int route)
-        {
-            throw new NotImplementedException();
-        }
-
         public Stop GetStop(int route, int order)
         {
             throw new NotImplementedException();
         }
 
-        public int GetStopAmount(string id_route)
+        public ObservableCollection<Stop> GetStops(int route, int time, int station, int offset = 0, int rows_per_page = -1)
         {
             throw new NotImplementedException();
         }
 
-        public bool InsertStop(Route r)
+        public bool InsertStop(Stop s)
         {
             throw new NotImplementedException();
         }
 
-        public bool UpdateStop(Route r)
+        public bool UpdateStop(Stop s)
         {
             throw new NotImplementedException();
         }

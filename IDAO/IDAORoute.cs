@@ -8,7 +8,7 @@ namespace Projecte1.IDAO
 {
     public interface IDAORoute
     {
-        public ObservableCollection<Route> GetRoutes(bool valid, int user);
+        public ObservableCollection<Route> GetRoutes(bool validat, int user, int offset = 0, int rows_per_page = -1);
 
         public Route GetRoute(int id);
 

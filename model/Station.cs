@@ -1,11 +1,10 @@
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.Java;
 using System.Text;
 
 namespace Projecte1.model
 {
-    internal class Station
+    public class Station
     {
         private int idS;
         private string nameS;

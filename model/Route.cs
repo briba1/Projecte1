@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.Java;
 using System.Text;
 
 namespace Projecte1.model

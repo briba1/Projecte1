@@ -8,15 +8,13 @@ namespace Projecte1.IDAO
 {
     public interface IDAOStop
     {
-        public int GetStopAmount(string id_route);
-
-        public ObservableCollection<Stop> GetRoutes(int route);
+        public ObservableCollection<Stop> GetStops(int route, int time, int station, int offset = 0, int rows_per_page = -1);
 
         public Stop GetStop(int route, int order);
 
-        public bool UpdateStop(Route r);
+        public bool UpdateStop(Stop s);
 
-        public bool InsertStop(Route r);
+        public bool InsertStop(Stop s);
 
         public bool DeleteStop(int route, int order);
     }

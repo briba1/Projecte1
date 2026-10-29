@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\aplicacio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\aplicacio\\aplicacio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\aplicacio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\aplicacio\\aplicacio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4288D3EE-39D5-4117-B5F6-123338D42696}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\aplicacio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3B8951-4CE2-F075-8C01-47E88B956994}|IDB\\IDAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\idb\\idao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AF3B8951-4CE2-F075-8C01-47E88B956994}|IDB\\IDAO.csproj|solutionrelative:idb\\idao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DBB381-992A-2510-03CC-FA1B0EEFFC36}|Model\\Model.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26DBB381-992A-2510-03CC-FA1B0EEFFC36}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\dao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\mysqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\mysqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daoroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daoroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daotransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daotransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daostop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daostop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|d:\\carpetesusuari\\documents\\examen\\icb0_0488_di_samples_26_27\\20261006_projecte_bd\\dao\\daostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87220717-C048-374D-257D-782BCED56369}|DAO\\DAO.csproj|solutionrelative:dao\\daostation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\App.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\App.xaml",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\App.xaml",
+              "RelativeToolTip": "Aplicacio\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T15:37:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MySQLFactory.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\MySQLFactory.cs",
+              "RelativeDocumentMoniker": "DAO\\MySQLFactory.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\MySQLFactory.cs",
+              "RelativeToolTip": "DAO\\MySQLFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:24:49.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\MainWindow.xaml",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T15:17:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:28:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDAO",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\IDB\\IDAO.csproj",
+              "RelativeDocumentMoniker": "IDB\\IDAO.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\IDB\\IDAO.csproj",
+              "RelativeToolTip": "IDB\\IDAO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:28:07.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAO",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAO.csproj",
+              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAO.csproj",
+              "RelativeToolTip": "DAO\\DAO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:26:56.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFgHAAAAAAAAAAAwwGIHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-29T15:26:43.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:18:16.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aplicacio",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\Aplicacio.csproj",
+              "RelativeDocumentMoniker": "Aplicacio\\Aplicacio.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\Aplicacio.csproj",
+              "RelativeToolTip": "Aplicacio\\Aplicacio.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:30:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAO.csproj",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAO.csproj",
+              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAO.csproj",
+              "RelativeToolTip": "DAO\\DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:31:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aplicacio.csproj",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\Aplicacio.csproj",
+              "RelativeDocumentMoniker": "Aplicacio\\Aplicacio.csproj",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\Aplicacio\\Aplicacio.csproj",
+              "RelativeToolTip": "Aplicacio\\Aplicacio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T15:17:46.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAO\\UnitOfWork.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\UnitOfWork.cs",
+              "RelativeToolTip": "DAO\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:24:52.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "DAO\\MyDBContext.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\MyDBContext.cs",
+              "RelativeToolTip": "DAO\\MyDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:24:46.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\Utils.cs",
+              "RelativeDocumentMoniker": "DAO\\Utils.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\Utils.cs",
+              "RelativeToolTip": "DAO\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:24:54.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAORoute.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAORoute.cs",
+              "RelativeDocumentMoniker": "DAO\\DAORoute.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAORoute.cs",
+              "RelativeToolTip": "DAO\\DAORoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:24:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DAOUser.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOUser.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOUser.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOUser.cs",
+              "RelativeToolTip": "DAO\\DAOUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:19:58.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DAOTransport.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOTransport.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOTransport.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOTransport.cs",
+              "RelativeToolTip": "DAO\\DAOTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:19:56.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAOCity.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOCity.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOCity.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOCity.cs",
+              "RelativeToolTip": "DAO\\DAOCity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:18:33.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DAOStop.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOStop.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOStop.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOStop.cs",
+              "RelativeToolTip": "DAO\\DAOStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:19:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DAOStation.cs",
+              "DocumentMoniker": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOStation.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOStation.cs",
+              "ToolTip": "D:\\CarpetesUsuari\\Documents\\Examen\\ICB0_0488_DI_Samples_26_27\\20261006_Projecte_BD\\DAO\\DAOStation.cs",
+              "RelativeToolTip": "DAO\\DAOStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:19:54.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

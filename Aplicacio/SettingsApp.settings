@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Aplicacio" GeneratedClassName="SettingsApp">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP_SERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.200.200.123</Value>
+    </Setting>
+    <Setting Name="CONNECTION_STRING" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
